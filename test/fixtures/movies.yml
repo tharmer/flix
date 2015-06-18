@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  [name[: 
+  rating[string]: MyString
+  total_gross[decimal]]: MyString
+
+two:
+  [name[: 
+  rating[string]: MyString
+  total_gross[decimal]]: MyString

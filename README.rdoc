@@ -1,13 +1,10 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My walkthrough te Pragmatic Studios Ruby on Rails 1 course.
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
+* Ruby 2.1.1, Rails 4.1.9
 
 * Configuration
 

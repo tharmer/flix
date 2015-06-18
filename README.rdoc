@@ -2,7 +2,7 @@
 
 My walk through the Pragmatic Studios Ruby on Rails 1 course.
 
-Things you may want to cover:
+Details:
 
 * Ruby 2.1.1, Rails 4.1.9
 

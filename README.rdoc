@@ -1,6 +1,6 @@
 == README
 
-My walkthrough te Pragmatic Studios Ruby on Rails 1 course.
+My walkthrough the Pragmatic Studios Ruby on Rails 1 course.
 
 Things you may want to cover:
 
